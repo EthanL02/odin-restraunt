@@ -11,3 +11,10 @@ header {
     font-size: min(5vw, 2em);
     padding-block: 1em;
 }
+
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3em;
+}
