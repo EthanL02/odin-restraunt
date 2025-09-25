@@ -18,3 +18,7 @@ header {
     align-items: center;
     gap: 3em;
 }
+
+nav {
+    cursor: pointer;
+}
